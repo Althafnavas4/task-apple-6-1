@@ -162,83 +162,22 @@ span{
  }
  
  .background2{
-  background-image:url(./images/electronic-device-surrounded-by-nature.jpg);
+  background-image:url(./images/Apple\ M4\ iPad\ 2024\ Newly\ Updated\ Wallpapers\ Free\ Download\ -\ Dejavu\ -\ AI\ Wallpaper\ Museum.jpeg);
            width: 100%;
-           height: 160%;
+           height: 100%;
            background-size: cover;
            text-align: center;
            
  }
- .main2{
-    text-align: center;
-    font-weight: normal;
-    background-image: url(./images/pexels-joshsorenson-1334598.jpg);
-    height: 90%;
-    width: 100%;
-    background-size: cover;
-    color: white;
- }
-
- .main3{
-    text-align: center;
-    font-weight: normal;
-    background-image: url(./images/pexels-jeshoots-238118.jpg);
-    height: 90%;
-    width: 100%;
-    background-size: cover;
-    color: black;
- }
-
- .main4{
-      text-align: center;
-      font-weight: normal;
-      background-image: url(./images/pexels-tdcat-437036.jpg);
-      height: 90%;
-      width: 100%;
-      background-size: cover;
-      color: white;
- }
-
- #watch{
-      color: red;
- }
-
- .main5{
-   text-align: center;
-   font-weight: normal;
-   background-image: url(./images/apple-intelligence-hero-3.webp);
-   height: 90%;
-   width: 100%;
-   background-size: cover;
-   color: black;
- }
-
- #btn5{
-      padding: 4px;
-      border-radius: 15px;
-      color: #2997ff;
-      border: 2px solid #2997ff;
- }
- .page4{
-   text-align: center;
-  padding-top: 70px;
-  font-size: 30px;
-  font-weight: bold;
-  color:white;
-  background-image: url(./images/ipad_pro_13_m4_cellular_space_black_01.jpeg);
-  height: 70%;
-  width: 50%;
-  background-size: cover;
-  display: inline-block;
  
- }
+ 
  .page5{
    text-align: center;
    padding-top: 70px;
    font-size: 30px;
    font-weight: bold;
-   color: black;
-   background-image: url(./images/Apple\ iPad\ Pro\ 11\ \(2024\).jpeg);
+    color:black;
+   background-image: url();
    
    height: 80%;
    width: 50%;
@@ -253,7 +192,7 @@ span{
    font-size: 30px;
    font-weight: bold;
    color: black;
-   background-image: url(./images/pexels-regeci-16891501.jpg);
+   background-image: url(./images/pexels-animesh-srivastava-3019173-10883732.jpg);
    height: 50%;
    width: 30%;
    background-size: cover;
