@@ -133,13 +133,13 @@ span{
  }
  .bgd{
   color:white;
-  font-size: 30px;
+  font-size: 50px;
   font-weight: bold;
   text-align: center;
  }
  .bgd1{
   color: white;
-  font-size: 30px;
+  font-size: 40px;
   text-align: center;
  }
  #btn1{
@@ -171,22 +171,34 @@ span{
  }
  
  
- .page5{
+ .background3{
    text-align: center;
    padding-top: 70px;
    font-size: 30px;
    font-weight: bold;
     color:black;
-   background-image: url();
+   background-image: url(./images/pexels-animesh-srivastava-3019173-10883732.jpg);
    
    height: 80%;
    width: 50%;
    background-size: cover;
    display: inline-block;
  
+ }.background4{
+   text-align: center;
+   padding-top: 70px;
+   font-size: 30px;
+   font-weight: bold;
+   color: black;
+   background-image: url(./images/pexels-animesh-srivastava-3019173-10883732.jpg);
+   height: 30%;
+   width: 30%;
+   background-size: cover;
+   display: inline-block;
+ 
  }
  
- .page6{
+ .background5{
    text-align: center;
    padding-top: 70px;
    font-size: 30px;
@@ -199,20 +211,8 @@ span{
    display: inline-block;
  
  }
- .page7{
-   text-align: center;
-   padding-top: 70px;
-   font-size: 30px;
-   font-weight: bold;
-   color: black;
-   background-image: url(./images/pexels-regeci-16891501.jpg);
-   height: 30%;
-   width: 30%;
-   background-size: cover;
-   display: inline-block;
  
- }
- .page8{
+ .background6{
    text-align: center;
    padding-top: 70px;
    font-size: 30px;
@@ -226,7 +226,7 @@ span{
  
  
  }
- .page9{
+ .background7{
    text-align: center;
    padding-top: 70px;
    font-size: 30px;
