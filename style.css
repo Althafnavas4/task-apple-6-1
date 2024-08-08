@@ -155,6 +155,23 @@ span{
   text-align: center;
   font-size: 30px;
  }
+
+ .bgd4{
+  color:black;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  
+}
+.bgd5{
+  color: black;
+  font-size: 20px;
+  text-align: center;
+  
+
+
+ }
+
  #btn1{
   background-color: rgb(0, 113, 227);
   border-radius: 15px;
@@ -178,7 +195,7 @@ span{
  .background2{
   background-image:url(./images/Apple\ M4\ iPad\ 2024\ Newly\ Updated\ Wallpapers\ Free\ Download\ -\ Dejavu\ -\ AI\ Wallpaper\ Museum.jpeg);
            width: 100%;
-           height: 100%;
+           height: 60%;
            background-size: cover;
            text-align: center;
            
@@ -187,14 +204,14 @@ span{
  
  .background3{
    text-align: center;
-   padding-top: 97px;
+   padding-top: 10px;
    font-size: 30px;
    font-weight: bold;
     color:black;
-   background-image: url(./images/pexels-animesh-srivastava-3019173-10883732.jpg);
+   background-image: url(./images/laptop-with-white-screen-isolated-white-wall.jpg);
    
-   height: 50%;
-   width: 45%;
+   height: 73%;
+   width: 46%;
    background-size: cover;
    display: inline-block;
     
@@ -202,14 +219,15 @@ span{
  }.background4{
    text-align: center;
    padding-top: 0px;
-   font-size: 30px;
+   font-size: 0px;
    font-weight: bold;
    color: black;
-   background-image: url(./images/pexels-animesh-srivastava-3019173-10883732.jpg);
-   height: 64%;
-   width: 38%;
+   background-image: url(./images/Apple-WWDC24-Apple-Intelligence-hero-240610_big.jpg.large.jpg);
+   height: 74%;
+   width: 52%;
    background-size: cover;
   display: inline-block;
+ 
 
  
  }
@@ -221,13 +239,13 @@ span{
  
  .background5{
    text-align: center;
-   padding-top: 70px;
+   padding-top: 0px;
    font-size: 30px;
    font-weight: bold;
    color: black;
-   background-image: url(./images/pexels-animesh-srivastava-3019173-10883732.jpg);
-   height: 50%;
-   width: 30%;
+   background-image: url(./images/man-wearing-vr-glasses-gaming.jpg);
+   height: 65%;
+   width: 28%;
    background-size: cover;
    display: inline-block;
  
@@ -239,7 +257,7 @@ span{
    font-size: 30px;
    font-weight: bold;
    color: black;
-   background-image: url(./images/pexels-regeci-16891501.jpg);
+   background-image: url(./images/apple-watch-blogroll-1561662284339_160w.jpg);
    height: 50%;
    width: 40%;
    background-size: cover;
