@@ -153,19 +153,19 @@ span{
  .bgd3{
   color: red;
   text-align: center;
-  font-size: 30px;
+  font-size: 15px;
  }
 
  .bgd4{
   color:black;
-  font-size: 30px;
+  font-size: 24px;
   font-weight: bold;
   text-align: center;
   
 }
 .bgd5{
   color: black;
-  font-size: 20px;
+  font-size: 15px;
   text-align: center;
   
 
@@ -224,7 +224,7 @@ span{
    color: black;
    background-image: url(./images/Apple-WWDC24-Apple-Intelligence-hero-240610_big.jpg.large.jpg);
    height: 74%;
-   width: 52%;
+   width: 49%;
    background-size: cover;
   display: inline-block;
  
@@ -234,28 +234,28 @@ span{
  .container{
   display: flex;
   justify-content: space-between;
-    height: 90%;
+    height: 60%;
  }
  
  .background5{
-   text-align: center;
+   
    padding-top: 0px;
-   font-size: 30px;
-   font-weight: bold;
-   color: black;
-   background-image: url(./images/man-wearing-vr-glasses-gaming.jpg);
-   height: 65%;
-   width: 28%;
+   
+   
+   
+   background-image: url(./images/person-wearing-high-tech-ar-headset-surrounded-by-bright-blue-neon-colors.jpg);
+   height: 66%;
+   width: 46%;
    background-size: cover;
    display: inline-block;
  
  }
  
  .background6{
-   text-align: center;
+   
    padding-top: 70px;
-   font-size: 30px;
-   font-weight: bold;
+   
+   
    color: black;
    background-image: url(./images/apple-watch-blogroll-1561662284339_160w.jpg);
    height: 50%;
@@ -268,7 +268,7 @@ span{
  .container1{
   display: flex;
   justify-content: space-between;
-    height: 90%;
+    height: 40%;
  }
 
  
