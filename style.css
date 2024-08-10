@@ -203,25 +203,28 @@ span{
  }
  
  .background2{
-  background-image:url(./images/Apple\ M4\ iPad\ 2024\ Newly\ Updated\ Wallpapers\ Free\ Download\ -\ Dejavu\ -\ AI\ Wallpaper\ Museum.jpeg);
+  background-image:url(/images/7.jpg);
            width: 100%;
-           height: 70%;
+           height: 100%;
            background-size: cover;
            text-align: center;
+           max-width: 2426px;
+           
+           
            
  }
  
  
  .background3{
    text-align: center;
-   padding-top: 10px;
+   padding-top: 0px;
    font-size: 30px;
    font-weight: bold;
     color:black;
-   background-image: url(./images/laptop-with-white-screen-isolated-white-wall.jpg);
+   background-image: url(./images/4.jpg);
    
-   height: 92%;
-   width: 61%;
+   height: 100%;
+   width: 40%;
    background-size: cover;
    display: inline-block;
     }
@@ -232,8 +235,8 @@ span{
       
       color: black;
       background-image: url(./images/Nomad\ launches\ Titanium\ Band\ for\ Apple\ Watch\ -\ The\ Gadgeteer.jpeg);
-      height: 93%;
-      width: 37%;
+      height: 100%;
+      width: 40%;
       background-size: cover;
       display: inline-block;
     
@@ -242,53 +245,58 @@ span{
   .container{
   display: flex;
   justify-content: space-between;
-    height: 65%;
-    width: 93%;
+    height: 85%;
+     width:  100%;
  }
  
  .background5{
    
    padding-top: 0px;
+  
    
    
    
-   background-image: url(./images/person-wearing-high-tech-ar-headset-surrounded-by-bright-blue-neon-colors.jpg);
-   height: 135%;
-   width: 51%;
+   background-image: url(./images/3.jpg);
+   height: 85%;
+   width: 40%;
    background-size: cover;
    display: inline-block;
  
  }
  
  
- .container1{
-  display: flex;
-  justify-content: space-between;
-    height: 49%;
- }
+ 
  .background6{
   text-align: center;
   padding-top: 0px;
   font-size: 0px;
   font-weight: bold;
   color: black;
-  background-image: url(./images/Apple-WWDC24-Apple-Intelligence-hero-240610_big.jpg.large.jpg);
-  height: 80%;
-  width: 49%;
+  background-image: url(./images/2.jpg);
+  height: 65%;
+  width: 40%;
   background-size: cover;
  display: inline-block;
 }
+.container1{
+  display: flex;
+  justify-content: space-between;
+    height: 85%;
+    width: 100%;
+    
+
+ }
 
  
  .background7{
    text-align: center;
-   padding-top: 70px;
+   padding-top: 0px;
    font-size: 30px;
    font-weight: bold;
    color: black;
-   background-image: url(./images/pexels-regeci-16891501.jpg);
-   height: 50%;
-   width: 45%;
+   background-image: url(./images/download1.jpg);
+   height: 78%;
+   width: 40%;
    background-size: cover;
    display: inline-block;
  
