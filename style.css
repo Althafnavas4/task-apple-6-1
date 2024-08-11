@@ -203,16 +203,13 @@ span{
  }
  
  .background2{
-  background-image:url(/images/7.jpg);
+ background-image: url(./images/7.jpg);
            width: 100%;
            height: 100%;
            background-size: cover;
            text-align: center;
-           max-width: 2426px;
            
-           
-           
- }
+           }
  
  
  .background3{
@@ -224,7 +221,7 @@ span{
    background-image: url(./images/4.jpg);
    
    height: 100%;
-   width: 40%;
+   width: 42%;
    background-size: cover;
    display: inline-block;
     }
@@ -236,7 +233,7 @@ span{
       color: black;
       background-image: url(./images/Nomad\ launches\ Titanium\ Band\ for\ Apple\ Watch\ -\ The\ Gadgeteer.jpeg);
       height: 100%;
-      width: 40%;
+      width: 42%;
       background-size: cover;
       display: inline-block;
     
@@ -257,8 +254,8 @@ span{
    
    
    background-image: url(./images/3.jpg);
-   height: 85%;
-   width: 40%;
+   height: 90%;
+   width: 42%;
    background-size: cover;
    display: inline-block;
  
@@ -273,8 +270,8 @@ span{
   font-weight: bold;
   color: black;
   background-image: url(./images/2.jpg);
-  height: 65%;
-  width: 40%;
+  height: 90%;
+  width: 42%;
   background-size: cover;
  display: inline-block;
 }
@@ -294,20 +291,28 @@ span{
    font-size: 30px;
    font-weight: bold;
    color: black;
-   background-image: url(./images/download1.jpg);
-   height: 78%;
-   width: 40%;
+   background-image: url(./images/8.jpg);
+   height: 60%;
+   width: 42%;
    background-size: cover;
    display: inline-block;
  
  
+ }
+ .background8{
+  background-image:url(./images/9.jpg);
+  height:88%;
+  width:51%;
+  display: inline-block;
+
  }
 
  
  .container2{
   display: flex;
   justify-content: space-between;
-    height: 49%;
+    height: 85%;
+    width: 100%;
  }
  
  
