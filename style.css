@@ -314,7 +314,7 @@ span{
    font-weight: bold;
    color: black;
    background-image: url(./images/8.jpg);
-   height: 74%;
+   height: 44%;
    width: 48%;
    background-size: cover;
    display: inline-block;
@@ -323,9 +323,10 @@ span{
  }
  .background8{
   background-image:url(./images/9.jpg);
-  height:74%;
+  height:44%;
   width:48%;
   display: inline-block;
+  background-size: cover;
 
  }
 
